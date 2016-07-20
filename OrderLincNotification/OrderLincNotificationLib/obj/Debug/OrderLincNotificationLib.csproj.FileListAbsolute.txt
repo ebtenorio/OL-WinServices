@@ -1,0 +1,31 @@
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincNotification.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincNotification.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\EmailSVC.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\PLPersistenceServices.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotification.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotification.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotificationLib.csprojResolveAssemblyReference.cache
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincNotification.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincNotification.pdb
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationLib\bin\Debug\EmailSVC.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincLib.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationLib\bin\Debug\PLPersistenceServices.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotificationLib.csprojResolveAssemblyReference.cache
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotification.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotification.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincNotification.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincNotification.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\EmailSVC.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincLib.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\PLPersistenceServices.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotification.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotification.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincNotification.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincNotification.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\EmailSVC.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincLib.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\bin\Debug\PLPersistenceServices.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotification.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotification.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotificationLib.csprojResolveAssemblyReference.cache

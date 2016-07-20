@@ -1,0 +1,12 @@
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe.config
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincParserLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\PLPersistenceServices.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderLincParserWinService.csprojResolveAssemblyReference.cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.OrderAppParserWindowsService.resources
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.ProjectInstaller.resources
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderLincParserWinService.csproj.GenerateResource.Cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.pdb

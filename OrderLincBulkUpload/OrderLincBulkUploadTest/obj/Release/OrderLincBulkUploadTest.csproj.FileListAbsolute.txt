@@ -1,0 +1,44 @@
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadTest.dll.config
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadTest.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadTest.pdb
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadLib.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincLib.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\EmailSVC.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\PLPersistenceServices.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadLib.pdb
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\obj\Release\OrderLincBulkUploadTest.csprojResolveAssemblyReference.cache
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\obj\Release\OrderLincBulkUploadTest.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\obj\Release\OrderLincBulkUploadTest.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadTest.dll.config
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadTest.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadTest.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\EmailSVC.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\PLPersistenceServices.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadLib.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\obj\Release\OrderLincBulkUploadTest.csprojResolveAssemblyReference.cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\obj\Release\OrderLincBulkUploadTest.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\obj\Release\OrderLincBulkUploadTest.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadTest.dll.config
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadTest.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadTest.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadLib.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincLib.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\EmailSVC.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\PLPersistenceServices.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadLib.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\obj\Release\OrderLincBulkUploadTest.csprojResolveAssemblyReference.cache
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\obj\Release\OrderLincBulkUploadTest.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\obj\Release\OrderLincBulkUploadTest.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadTest.dll.config
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadTest.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadTest.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadLib.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincLib.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\EmailSVC.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\PLPersistenceServices.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\bin\Release\OrderLincBulkUploadLib.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\obj\Release\OrderLincBulkUploadTest.csprojResolveAssemblyReference.cache
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\obj\Release\OrderLincBulkUploadTest.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadTest\obj\Release\OrderLincBulkUploadTest.pdb

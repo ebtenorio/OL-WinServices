@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderLincNotificationService", "OrderLincNotificationService\OrderLincNotificationService.csproj", "{C57570F2-536C-4989-937C-5F943A88A74B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderLincNotificationLib", "OrderLincNotificationLib\OrderLincNotificationLib.csproj", "{8AA5661D-CAC4-40F7-8827-58198760A24D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OrderLincNotificationWinServiceSetup", "OrderLincNotificationSetup\OrderLincNotificationSetup.vdproj", "{868F1798-350C-4AE1-A8A9-6EC0EE2FDDB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderLincNotificationTester", "OrderLincNotificationTester\OrderLincNotificationTester.csproj", "{674D4411-FC82-48D0-AC34-F41D35D4A80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57570F2-536C-4989-937C-5F943A88A74B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C57570F2-536C-4989-937C-5F943A88A74B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{C57570F2-536C-4989-937C-5F943A88A74B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{C57570F2-536C-4989-937C-5F943A88A74B}.Debug|x86.ActiveCfg = Debug|x86
+		{C57570F2-536C-4989-937C-5F943A88A74B}.Debug|x86.Build.0 = Debug|x86
+		{C57570F2-536C-4989-937C-5F943A88A74B}.Release|Any CPU.ActiveCfg = Release|x86
+		{C57570F2-536C-4989-937C-5F943A88A74B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{C57570F2-536C-4989-937C-5F943A88A74B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{C57570F2-536C-4989-937C-5F943A88A74B}.Release|x86.ActiveCfg = Release|x86
+		{C57570F2-536C-4989-937C-5F943A88A74B}.Release|x86.Build.0 = Release|x86
+		{8AA5661D-CAC4-40F7-8827-58198760A24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA5661D-CAC4-40F7-8827-58198760A24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA5661D-CAC4-40F7-8827-58198760A24D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{8AA5661D-CAC4-40F7-8827-58198760A24D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{8AA5661D-CAC4-40F7-8827-58198760A24D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8AA5661D-CAC4-40F7-8827-58198760A24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA5661D-CAC4-40F7-8827-58198760A24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA5661D-CAC4-40F7-8827-58198760A24D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{8AA5661D-CAC4-40F7-8827-58198760A24D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{8AA5661D-CAC4-40F7-8827-58198760A24D}.Release|x86.ActiveCfg = Release|Any CPU
+		{868F1798-350C-4AE1-A8A9-6EC0EE2FDDB8}.Debug|Any CPU.ActiveCfg = Debug
+		{868F1798-350C-4AE1-A8A9-6EC0EE2FDDB8}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{868F1798-350C-4AE1-A8A9-6EC0EE2FDDB8}.Debug|x86.ActiveCfg = Debug
+		{868F1798-350C-4AE1-A8A9-6EC0EE2FDDB8}.Release|Any CPU.ActiveCfg = Release
+		{868F1798-350C-4AE1-A8A9-6EC0EE2FDDB8}.Release|Mixed Platforms.ActiveCfg = Release
+		{868F1798-350C-4AE1-A8A9-6EC0EE2FDDB8}.Release|x86.ActiveCfg = Release
+		{674D4411-FC82-48D0-AC34-F41D35D4A80B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{674D4411-FC82-48D0-AC34-F41D35D4A80B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{674D4411-FC82-48D0-AC34-F41D35D4A80B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{674D4411-FC82-48D0-AC34-F41D35D4A80B}.Debug|x86.ActiveCfg = Debug|x86
+		{674D4411-FC82-48D0-AC34-F41D35D4A80B}.Debug|x86.Build.0 = Debug|x86
+		{674D4411-FC82-48D0-AC34-F41D35D4A80B}.Release|Any CPU.ActiveCfg = Release|x86
+		{674D4411-FC82-48D0-AC34-F41D35D4A80B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{674D4411-FC82-48D0-AC34-F41D35D4A80B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{674D4411-FC82-48D0-AC34-F41D35D4A80B}.Release|x86.ActiveCfg = Release|x86
+		{674D4411-FC82-48D0-AC34-F41D35D4A80B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

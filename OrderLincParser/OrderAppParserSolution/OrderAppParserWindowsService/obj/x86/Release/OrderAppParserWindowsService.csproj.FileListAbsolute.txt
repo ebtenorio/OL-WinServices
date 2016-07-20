@@ -1,0 +1,30 @@
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Release\OrderAppParserWindowsService.exe.config
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Release\OrderAppParserWindowsService.exe
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Release\OrderAppParserWindowsService.pdb
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Release\OrderAppLib.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Release\OrderAppParserClassLibrary.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Release\PLPersistenceServices.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppParserWindowsService.exe.config
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppParserWindowsService.exe
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppParserWindowsService.pdb
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppLib.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppParserClassLibrary.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\PLPersistenceServices.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Release\OrderAppParserWindowsService.csprojResolveAssemblyReference.cache
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Release\OrderAppParserWindowsService.OrderAppParserWindowsService.resources
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Release\OrderAppParserWindowsService.ProjectInstaller.resources
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Release\OrderAppParserWindowsService.csproj.GenerateResource.Cache
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Release\OrderAppParserWindowsService.exe
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Release\OrderAppParserWindowsService.pdb
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Release\OrderAppParserWindowsService.exe.config
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Release\OrderAppParserWindowsService.exe
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Release\OrderAppParserWindowsService.pdb
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Release\OrderAppLib.dll
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Release\OrderAppParserClassLibrary.dll
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Release\PLPersistenceServices.dll
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Release\OrderAppParserWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Release\OrderAppParserWindowsService.OrderAppParserWindowsService.resources
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Release\OrderAppParserWindowsService.ProjectInstaller.resources
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Release\OrderAppParserWindowsService.csproj.GenerateResource.Cache
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Release\OrderAppParserWindowsService.exe
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Release\OrderAppParserWindowsService.pdb

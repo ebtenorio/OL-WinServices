@@ -1,0 +1,8 @@
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadLib\bin\Debug\OrderLincBulkUploadLib.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadLib\bin\Debug\OrderLincBulkUploadLib.pdb
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadLib\bin\Debug\EmailSVC.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadLib\bin\Debug\PLPersistenceServices.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadLib\obj\Debug\OrderLincBulkUploadLib.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadLib\obj\Debug\OrderLincBulkUploadLib.pdb
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadLib\obj\Debug\OrderLincBulkUploadLib.csprojResolveAssemblyReference.cache
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadLib\bin\Debug\OrderLincLib.dll

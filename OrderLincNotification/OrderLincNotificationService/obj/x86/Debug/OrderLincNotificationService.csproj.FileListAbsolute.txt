@@ -1,0 +1,56 @@
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.exe.config
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincNotification.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\PDFTechLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\EmailSVC.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\PLPersistenceServices.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincNotification.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLincNotificationService.csprojResolveAssemblyReference.cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderAppWindowsService.ProjectInstaller.resources
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLincNotificationService.csproj.GenerateResource.Cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLinc Windows Service.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLinc Windows Service.pdb
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.exe.config
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.exe
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.pdb
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincLib.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincNotification.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\bin\Debug\PDFTechLib.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\bin\Debug\EmailSVC.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\bin\Debug\PLPersistenceServices.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincNotification.pdb
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLincNotificationService.csprojResolveAssemblyReference.cache
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderAppWindowsService.ProjectInstaller.resources
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLincNotificationService.csproj.GenerateResource.Cache
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLinc Windows Service.exe
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLinc Windows Service.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.exe.config
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.exe
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincLib.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincNotification.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\EmailSVC.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\PDFTechLib.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\PLPersistenceServices.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincNotification.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLincNotificationService.csprojResolveAssemblyReference.cache
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderAppWindowsService.ProjectInstaller.resources
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLincNotificationService.csproj.GenerateResource.Cache
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLinc Windows Service.exe
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLinc Windows Service.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.exe.config
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.exe
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincLib.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincNotification.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\EmailSVC.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\PDFTechLib.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\PLPersistenceServices.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincNotification.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLincNotificationService.csprojResolveAssemblyReference.cache
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderAppWindowsService.ProjectInstaller.resources
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLincNotificationService.csproj.GenerateResource.Cache
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLinc Windows Service.exe
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLinc Windows Service.pdb

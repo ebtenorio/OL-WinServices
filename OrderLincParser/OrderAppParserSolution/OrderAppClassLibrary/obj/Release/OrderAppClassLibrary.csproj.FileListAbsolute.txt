@@ -1,0 +1,8 @@
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Release\OrderAppParserClassLibrary.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Release\OrderAppParserClassLibrary.pdb
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Release\OrderAppLib.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Release\PLPersistenceServices.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Release\PLPersistenceServices.pdb
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\obj\Release\OrderAppParserClassLibrary.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\obj\Release\OrderAppParserClassLibrary.pdb

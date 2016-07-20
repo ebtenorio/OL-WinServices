@@ -1,0 +1,13 @@
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Debug\OrderLincBulkUploadLib.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Debug\OrderLincLib.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Debug\EmailSVC.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Debug\PLPersistenceServices.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Debug\OrderLincBulkUploadWinService.csprojResolveAssemblyReference.cache
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Debug\OrderLinc.BulkUploadLib.OrderLincBulkUploadService.resources
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Debug\OrderLinc.BulkUploadLib.ProjectInstaller.resources
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Debug\OrderLincBulkUploadWinService.csproj.GenerateResource.Cache
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Debug\OrderLincBulkDataLoad.exe.config
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Debug\OrderLincBulkDataLoad.exe
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Debug\OrderLincBulkDataLoad.pdb
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Debug\OrderLincBulkDataLoad.exe
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Debug\OrderLincBulkDataLoad.pdb

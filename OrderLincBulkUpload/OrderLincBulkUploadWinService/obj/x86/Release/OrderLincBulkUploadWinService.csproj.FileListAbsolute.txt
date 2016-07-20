@@ -1,0 +1,55 @@
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkUploadLib.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincLib.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\EmailSVC.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\PLPersistenceServices.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLinc.BulkUploadLib.OrderLincBulkUploadService.resources
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLinc.BulkUploadLib.ProjectInstaller.resources
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkUploadWinService.csproj.GenerateResource.Cache
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.exe.config
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.exe
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.pdb
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkDataLoad.exe
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkDataLoad.pdb
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkUploadWinService.csprojResolveAssemblyReference.cache
+C:\Users\Ringo\AppData\Roaming\Skype\My Skype Received Files\OrderLincBulkUpload\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.exe.config
+C:\Users\Ringo\AppData\Roaming\Skype\My Skype Received Files\OrderLincBulkUpload\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkDataLoad.exe
+C:\Users\Ringo\AppData\Roaming\Skype\My Skype Received Files\OrderLincBulkUpload\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkDataLoad.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.exe.config
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkDataLoad.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkDataLoad.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkUploadLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\EmailSVC.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\PLPersistenceServices.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkUploadWinService.csprojResolveAssemblyReference.cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLinc.BulkUploadLib.OrderLincBulkUploadService.resources
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLinc.BulkUploadLib.ProjectInstaller.resources
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkUploadWinService.csproj.GenerateResource.Cache
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.exe.config
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkDataLoad.exe
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkDataLoad.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.exe
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkUploadLib.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincLib.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\EmailSVC.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\PLPersistenceServices.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkUploadWinService.csprojResolveAssemblyReference.cache
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLinc.BulkUploadLib.OrderLincBulkUploadService.resources
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLinc.BulkUploadLib.ProjectInstaller.resources
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkUploadWinService.csproj.GenerateResource.Cache
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.exe.config
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkDataLoad.exe
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkDataLoad.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.exe
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkUploadLib.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincLib.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\EmailSVC.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\PLPersistenceServices.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkUploadWinService.csprojResolveAssemblyReference.cache
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLinc.BulkUploadLib.OrderLincBulkUploadService.resources
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLinc.BulkUploadLib.ProjectInstaller.resources
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkUploadWinService.csproj.GenerateResource.Cache

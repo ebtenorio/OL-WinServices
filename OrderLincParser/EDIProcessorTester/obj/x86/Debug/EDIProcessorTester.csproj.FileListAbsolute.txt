@@ -1,0 +1,72 @@
+C:\OrderlincPortal-BitBucket\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.exe
+C:\OrderlincPortal-BitBucket\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.pdb
+C:\OrderlincPortal-BitBucket\OrderLincParser\EDIProcessorTester\bin\Debug\EDIProcessorTester.exe
+C:\OrderlincPortal-BitBucket\OrderLincParser\EDIProcessorTester\bin\Debug\EDIProcessorTester.pdb
+C:\OrderlincPortal-BitBucket\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincLib.dll
+C:\OrderlincPortal-BitBucket\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincParserLib.dll
+C:\OrderlincPortal-BitBucket\OrderLincParser\EDIProcessorTester\bin\Debug\PLPersistenceServices.dll
+C:\OrderlincPortal-BitBucket\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincParserLib.pdb
+C:\OrderlincPortal-BitBucket\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.csprojResolveAssemblyReference.cache
+C:\OrderlincPortal-BitBucket\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.Form1.resources
+C:\OrderlincPortal-BitBucket\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.Properties.Resources.resources
+C:\OrderlincPortal-BitBucket\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.csproj.GenerateResource.Cache
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\EDIProcessorTester.exe
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\EDIProcessorTester.pdb
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincLib.dll
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincParserLib.dll
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\PLPersistenceServices.dll
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincParserLib.pdb
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.csprojResolveAssemblyReference.cache
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.Form1.resources
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.Properties.Resources.resources
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.csproj.GenerateResource.Cache
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.exe
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\EDIProcessorTester.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\EDIProcessorTester.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincParserLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\PLPersistenceServices.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincParserLib.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.csprojResolveAssemblyReference.cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.Form1.resources
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.Properties.Resources.resources
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.csproj.GenerateResource.Cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.pdb
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.exe
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.pdb
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\EDIProcessorTester.exe
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\EDIProcessorTester.pdb
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincLib.dll
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincParserLib.dll
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\PLPersistenceServices.dll
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincParserLib.pdb
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.csprojResolveAssemblyReference.cache
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.Form1.resources
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.Properties.Resources.resources
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.csproj.GenerateResource.Cache
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.exe
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\EDIProcessorTester.exe
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\EDIProcessorTester.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincLib.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincParserLib.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\PLPersistenceServices.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincParserLib.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.csprojResolveAssemblyReference.cache
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.Form1.resources
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.Properties.Resources.resources
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.csproj.GenerateResource.Cache
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\EDIProcessorTester.exe
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\EDIProcessorTester.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincLib.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincParserLib.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\PLPersistenceServices.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\bin\Debug\OrderLincParserLib.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.csprojResolveAssemblyReference.cache
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.Form1.resources
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.Properties.Resources.resources
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.csproj.GenerateResource.Cache
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.exe
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\EDIProcessorTester\obj\x86\Debug\EDIProcessorTester.pdb

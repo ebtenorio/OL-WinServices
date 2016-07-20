@@ -1,0 +1,15 @@
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Debug\OrderAppParserClassLibrary.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Debug\OrderAppParserClassLibrary.pdb
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Debug\OrderAppLib.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Debug\PLPersistenceServices.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\obj\Debug\OrderAppParserClassLibrary.csprojResolveAssemblyReference.cache
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\obj\Debug\OrderAppParserClassLibrary.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppClassLibrary\obj\Debug\OrderAppParserClassLibrary.pdb
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Debug\OrderAppParserClassLibrary.dll
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Debug\OrderAppParserClassLibrary.pdb
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Debug\OrderAppLib.dll
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Debug\PLPersistenceServices.dll
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppClassLibrary\bin\Debug\PLPersistenceServices.pdb
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppClassLibrary\obj\Debug\OrderAppParserClassLibrary.dll
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppClassLibrary\obj\Debug\OrderAppParserClassLibrary.pdb
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppClassLibrary\obj\Debug\OrderAppParserClassLibrary.csprojResolveAssemblyReference.cache

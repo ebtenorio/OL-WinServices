@@ -1,0 +1,6 @@
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDI File Processor.csprojResolveAssemblyReference.cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.OrderAppParserWindowsService.resources
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.ProjectInstaller.resources
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDI File Processor.csproj.GenerateResource.Cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.pdb

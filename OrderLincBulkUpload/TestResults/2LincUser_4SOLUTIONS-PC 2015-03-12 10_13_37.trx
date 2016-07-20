@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="588908a0-e834-4530-836a-7269f4774f1b" name="2LincUser@4SOLUTIONS-PC 2015-03-12 10:13:37" runUser="4Solutions-PC\2LincUser" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="869c56f6-67de-40ea-ae9f-82880625717d">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="2LincUser_4SOLUTIONS-PC 2015-03-12 10_13_37">
+      <DeploymentItem filename="C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadLib\bin\Release\OrderLincBulkUploadLib.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-03-12T10:13:37.0211971+08:00" queuing="2015-03-12T10:13:39.6153455+08:00" start="2015-03-12T10:13:39.8733603+08:00" finish="2015-03-12T10:13:50.6919791+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Start" storage="c:\agilitinet\1440-4se-orderlincversion3\application\orderlincbulkupload\orderlincbulkuploadtest\bin\release\orderlincbulkuploadtest.dll" id="024361f7-75de-c046-2e9b-bd393865238e">
+      <Execution id="b18fe2e2-2d95-48aa-b048-3a41d8733f29" />
+      <TestMethod codeBase="C:/Agilitinet/1440-4SE-OrderLincVersion3/Application/OrderLincBulkUpload/OrderLincBulkUploadTest/bin/Release/OrderLincBulkUploadTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OrderLincBulkUploadTest.BulkUploadServiceTest, OrderLincBulkUploadTest, Version=1.0.5.0, Culture=neutral, PublicKeyToken=null" name="Start" />
+    </UnitTest>
+    <UnitTest name="Stop" storage="c:\agilitinet\1440-4se-orderlincversion3\application\orderlincbulkupload\orderlincbulkuploadtest\bin\release\orderlincbulkuploadtest.dll" id="7d61a9df-c41e-147f-3061-c83e6ae79c5f">
+      <Execution id="ead98348-5db5-4f96-9cfb-7d61e0d132b2" />
+      <TestMethod codeBase="C:/Agilitinet/1440-4SE-OrderLincVersion3/Application/OrderLincBulkUpload/OrderLincBulkUploadTest/bin/Release/OrderLincBulkUploadTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="OrderLincBulkUploadTest.BulkUploadServiceTest, OrderLincBulkUploadTest, Version=1.0.5.0, Culture=neutral, PublicKeyToken=null" name="Stop" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="024361f7-75de-c046-2e9b-bd393865238e" executionId="b18fe2e2-2d95-48aa-b048-3a41d8733f29" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7d61a9df-c41e-147f-3061-c83e6ae79c5f" executionId="ead98348-5db5-4f96-9cfb-7d61e0d132b2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b18fe2e2-2d95-48aa-b048-3a41d8733f29" testId="024361f7-75de-c046-2e9b-bd393865238e" testName="Start" computerName="4SOLUTIONS-PC" duration="00:00:06.3348161" startTime="2015-03-12T10:13:40.1753776+08:00" endTime="2015-03-12T10:13:48.8798754+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b18fe2e2-2d95-48aa-b048-3a41d8733f29">
+    </UnitTestResult>
+    <UnitTestResult executionId="ead98348-5db5-4f96-9cfb-7d61e0d132b2" testId="7d61a9df-c41e-147f-3061-c83e6ae79c5f" testName="Stop" computerName="4SOLUTIONS-PC" duration="00:00:00.0250068" startTime="2015-03-12T10:13:48.9168775+08:00" endTime="2015-03-12T10:13:48.9638802+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ead98348-5db5-4f96-9cfb-7d61e0d132b2">
+    </UnitTestResult>
+  </Results>
+</TestRun>

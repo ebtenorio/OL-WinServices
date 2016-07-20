@@ -1,0 +1,11 @@
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkDataLoadSettings\bin\Debug\OrderLincBulkDataLoadSettings.exe
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkDataLoadSettings\bin\Debug\OrderLincBulkDataLoadSettings.pdb
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkDataLoadSettings\obj\x86\Debug\OrderLincBulkDataLoadSettings.frmSettings.resources
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkDataLoadSettings\obj\x86\Debug\OrderLincBulkDataLoadSettings.Properties.Resources.resources
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkDataLoadSettings\obj\x86\Debug\OrderLincBulkDataLoadSettings.csproj.GenerateResource.Cache
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkDataLoadSettings\obj\x86\Debug\OrderLincBulkDataLoadSettings.exe
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkDataLoadSettings\obj\x86\Debug\OrderLincBulkDataLoadSettings.pdb
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkDataLoadSettings\bin\Debug\PLPersistenceServices.dll
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkDataLoadSettings\bin\Debug\OrderLincBulkDataLoadSettings.exe.config
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkDataLoadSettings\obj\x86\Debug\OrderLincBulkDataLoadSettings.csprojResolveAssemblyReference.cache
+D:\PTINET\HSN\AgilitiNet\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkDataLoadSettings\bin\Debug\OrderLincLib.dll

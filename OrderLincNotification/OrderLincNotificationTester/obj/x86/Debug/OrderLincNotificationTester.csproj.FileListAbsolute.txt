@@ -1,0 +1,56 @@
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotificationTester.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotificationTester.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotification.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\PDFTechLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\EmailSVC.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\PLPersistenceServices.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotification.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.csprojResolveAssemblyReference.cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.Form1.resources
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.Properties.Resources.resources
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.csproj.GenerateResource.Cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.pdb
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.exe
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.pdb
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotificationTester.exe
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotificationTester.pdb
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotification.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\bin\Debug\PDFTechLib.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincLib.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\bin\Debug\EmailSVC.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\bin\Debug\PLPersistenceServices.dll
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotification.pdb
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.csprojResolveAssemblyReference.cache
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.Form1.resources
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.Properties.Resources.resources
+C:\OrderlincPortal-BitBucket\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.csproj.GenerateResource.Cache
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotificationTester.exe
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotificationTester.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotification.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincLib.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\EmailSVC.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\PDFTechLib.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\PLPersistenceServices.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotification.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.csprojResolveAssemblyReference.cache
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.Form1.resources
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.Properties.Resources.resources
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.csproj.GenerateResource.Cache
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.exe
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.exe
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotificationTester.exe
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotificationTester.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotification.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincLib.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\EmailSVC.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\PDFTechLib.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\PLPersistenceServices.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\bin\Debug\OrderLincNotification.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.csprojResolveAssemblyReference.cache
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.Form1.resources
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.Properties.Resources.resources
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationTester\obj\x86\Debug\OrderLincNotificationTester.csproj.GenerateResource.Cache

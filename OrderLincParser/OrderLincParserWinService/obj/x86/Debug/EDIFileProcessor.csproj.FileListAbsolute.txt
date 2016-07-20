@@ -1,0 +1,78 @@
+C:\OrderlincPortal-BitBucket\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe.config
+C:\OrderlincPortal-BitBucket\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe
+C:\OrderlincPortal-BitBucket\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.pdb
+C:\OrderlincPortal-BitBucket\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincLib.dll
+C:\OrderlincPortal-BitBucket\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincParserLib.dll
+C:\OrderlincPortal-BitBucket\OrderLincParser\OrderLincParserWinService\bin\Debug\PLPersistenceServices.dll
+C:\OrderlincPortal-BitBucket\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincParserLib.pdb
+C:\OrderlincPortal-BitBucket\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDIFileProcessor.csprojResolveAssemblyReference.cache
+C:\OrderlincPortal-BitBucket\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.OrderAppParserWindowsService.resources
+C:\OrderlincPortal-BitBucket\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.ProjectInstaller.resources
+C:\OrderlincPortal-BitBucket\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDIFileProcessor.csproj.GenerateResource.Cache
+C:\OrderlincPortal-BitBucket\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.exe
+C:\OrderlincPortal-BitBucket\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.pdb
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe.config
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.pdb
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincLib.dll
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincParserLib.dll
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\PLPersistenceServices.dll
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincParserLib.pdb
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDIFileProcessor.csprojResolveAssemblyReference.cache
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.OrderAppParserWindowsService.resources
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.ProjectInstaller.resources
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDIFileProcessor.csproj.GenerateResource.Cache
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.exe
+D:\1440-4SE-OrderLincVersion3 (3)\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe.config
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincParserLib.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\PLPersistenceServices.dll
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincParserLib.pdb
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDIFileProcessor.csprojResolveAssemblyReference.cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.OrderAppParserWindowsService.resources
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.ProjectInstaller.resources
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDIFileProcessor.csproj.GenerateResource.Cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.pdb
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe.config
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.pdb
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincLib.dll
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincParserLib.dll
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\PLPersistenceServices.dll
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincParserLib.pdb
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDIFileProcessor.csprojResolveAssemblyReference.cache
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.OrderAppParserWindowsService.resources
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.ProjectInstaller.resources
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDIFileProcessor.csproj.GenerateResource.Cache
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.exe
+C:\AGILINET SOURCE CODES\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe.config
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincLib.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincParserLib.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\PLPersistenceServices.dll
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincParserLib.pdb
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDIFileProcessor.csprojResolveAssemblyReference.cache
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.OrderAppParserWindowsService.resources
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.ProjectInstaller.resources
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDIFileProcessor.csproj.GenerateResource.Cache
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.exe
+C:\Agilitinet\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe.config
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.exe
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderAppParserWindowsService.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincLib.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincParserLib.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\PLPersistenceServices.dll
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\bin\Debug\OrderLincParserLib.pdb
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDIFileProcessor.csprojResolveAssemblyReference.cache
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.OrderAppParserWindowsService.resources
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.ProjectInstaller.resources
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\EDIFileProcessor.csproj.GenerateResource.Cache
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.exe
+C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderLincParserWinService\obj\x86\Debug\OrderAppParserWindowsService.pdb

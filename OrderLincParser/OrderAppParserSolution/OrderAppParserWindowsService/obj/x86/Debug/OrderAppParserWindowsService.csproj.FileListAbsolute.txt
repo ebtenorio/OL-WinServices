@@ -1,0 +1,27 @@
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppParserWindowsService.exe.config
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppParserWindowsService.exe
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppParserWindowsService.pdb
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppLib.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppParserClassLibrary.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\PLPersistenceServices.dll
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.OrderAppParserWindowsService.resources
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.ProjectInstaller.resources
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.csproj.GenerateResource.Cache
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.exe
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.pdb
+C:\OrderApp\ORDER APP\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppParserWindowsService.exe.config
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.exe
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.pdb
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppParserWindowsService.exe
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppParserWindowsService.pdb
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppLib.dll
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppParserClassLibrary.dll
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\PLPersistenceServices.dll
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.csprojResolveAssemblyReference.cache
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.OrderAppParserWindowsService.resources
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.ProjectInstaller.resources
+C:\Users\lrr.piedraverde\Downloads\PARSER\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.csproj.GenerateResource.Cache
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderAppParserSolution\OrderAppParserWindowsService\bin\Debug\OrderAppParserWindowsService.exe.config
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.exe
+C:\PTINET\1440-4SE-OrderLincVersion3\Application\OrderLincParser\OrderAppParserSolution\OrderAppParserWindowsService\obj\x86\Debug\OrderAppParserWindowsService.pdb
