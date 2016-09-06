@@ -29,3 +29,10 @@ C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotificatio
 C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotification.dll
 C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotification.pdb
 C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotificationLib.csprojResolveAssemblyReference.cache
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincNotification.dll
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincNotification.pdb
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotification.dll
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationLib\obj\Debug\OrderLincNotification.pdb
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincLib.dll
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationLib\bin\Debug\PLPersistenceServices.dll
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationLib\bin\Debug\OrderLincLib.pdb

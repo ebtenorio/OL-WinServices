@@ -31,7 +31,7 @@ namespace OrderLinc.NotificationWinService
 
                 int time = 0;
 
-                DTOSYSConfig mConfig = _orderNotification.ServiceInterval;
+                DTOSYSConfig mConfig = _orderNotification.ServiceInterval;              
 
                 if (mConfig != null)
                 {
@@ -48,7 +48,6 @@ namespace OrderLinc.NotificationWinService
                         }
                         else
                         {
-                            // EventLog.WriteEntry("OrderLinc", "time = " + time, EventLogEntryType.Information);
                             time = (time * 1000);
                             _orderNotification.LogMe("Service Timer has been successfully set to Time Interval = " + time, EventLogEntryType.Information);
                             _orderNotification.StartService(double.Parse(time.ToString()));

@@ -53,3 +53,6 @@ C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\
 C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLinc.BulkUploadLib.OrderLincBulkUploadService.resources
 C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLinc.BulkUploadLib.ProjectInstaller.resources
 C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkUploadWinService.csproj.GenerateResource.Cache
+C:\Github Repos\OrderLinc-WinServices\OrderLincBulkUpload\OrderLincBulkUploadWinService\bin\Release\OrderLincBulkDataLoad.exe.config
+C:\Github Repos\OrderLinc-WinServices\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkDataLoad.exe
+C:\Github Repos\OrderLinc-WinServices\OrderLincBulkUpload\OrderLincBulkUploadWinService\obj\x86\Release\OrderLincBulkDataLoad.pdb

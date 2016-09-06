@@ -9,6 +9,7 @@ using OrderLinc.DTOs;
 using OrderLinc;
 using OrderLinc.IDataContracts;
 using PTI;
+using System.Net.Mail;
 
 namespace OrderLinc.NotificationLib
 {
@@ -30,6 +31,7 @@ namespace OrderLinc.NotificationLib
         EmailSVC _emailService;
 
         string MailHost = "";
+        bool MailEnableSSL = true;
         string MailSender = "";
         int MailPort = 0;
         string MailUserName = "";
@@ -148,10 +150,10 @@ namespace OrderLinc.NotificationLib
                 if (mConfig != null)
                 {
                     MailCC = mConfig.ConfigValue.ToString();
+                    LogMe("MailCC :  " +  MailCC, EventLogEntryType.Information);
                 }
                 else
                 {
-
                     LogMe("Cannot find MailCC in the configuration table.", EventLogEntryType.Error);
 
                     return;
@@ -190,16 +192,6 @@ namespace OrderLinc.NotificationLib
                     LogMe("Cannot find MailPort configKey in the configuration table.", EventLogEntryType.Error);
                     return;
                 }
-
-
-                //MailHost = "stg.orderlinc.com";
-                //MailSender = "notifications@stg.orderlinc.com";
-                //MailPort = 25;
-                //MailUserName = "notifications@stg.orderlinc.com";
-                //MailPassword = "4solutions";
-                //mMailUseDefaultCredential = false;
-                //MailCC = "jp.sacay@paperlesstrail.net";
-                //mCustomer.Email = "rr.piedraverde@paperlesstrail.net";
 
                 _emailService = new PTI.EmailSVC(MailHost.Trim(), MailPort, mMailUseDefaultCredential, MailUserName.Trim(), MailPassword.Trim(), MailSender.Trim());
 
@@ -247,7 +239,6 @@ namespace OrderLinc.NotificationLib
             {
                 EventLog.WriteEntry("OrderLinc", e.Message + Environment.NewLine + e.StackTrace + Environment.NewLine + e.InnerException.ToString(), EventLogEntryType.Error);
                 _logService.LogSave("OrderNotification", "StartService  - Error " + e.Message, 0);
-
 
             }
 
@@ -306,8 +297,7 @@ namespace OrderLinc.NotificationLib
             catch (Exception ex)
             {
                 IsBusy = false;
-                LogMe("Timer1_Tick Error ." + ex.Message + Environment.NewLine + ex.StackTrace + Environment.NewLine + ex.InnerException, EventLogEntryType.Error);
-                EventLog.WriteEntry("OrderLinc", ex.Message + Environment.NewLine + ex.StackTrace + Environment.NewLine + ex.InnerException, EventLogEntryType.Error);
+                
 
 
             }
@@ -513,15 +503,18 @@ namespace OrderLinc.NotificationLib
                             UpdateMessageInboundFailed(msgInbound);
                         }
                     }
-                    // send mail cc
 
+                    // send mail cc
                     if (!string.IsNullOrEmpty(MailCC))
                     {
-                       mRes = SendMail(mOrder, MailCC, body, subject, pdfpath);
-                       if (mRes == false) {
 
-                           LogMe("ProcessOrderNotification - MailCC Email failed to send to - " + customerContact.Email + " | OrderID :  " + orderID, EventLogEntryType.Error);
-                       }
+                        mRes = SendMail(mOrder, MailCC, body, subject, pdfpath);
+
+                        if (mRes == false)
+                        {
+
+                            LogMe("ProcessOrderNotification - MailCC Email failed to send to - " + customerContact.Email + " | OrderID :  " + orderID, EventLogEntryType.Error);
+                        }
                     }
 
                     // 2. sales rep
@@ -758,6 +751,13 @@ namespace OrderLinc.NotificationLib
         {
             try
             {
+
+                System.Net.Mail.SmtpClient emailSender = new System.Net.Mail.SmtpClient(MailHost);
+                emailSender.Port = MailPort;
+                emailSender.Credentials = new System.Net.NetworkCredential(MailUserName, MailPassword);
+                emailSender.EnableSsl = true;
+
+
                 bool ret = false;
 
                 if (string.IsNullOrEmpty(email))
@@ -765,21 +765,29 @@ namespace OrderLinc.NotificationLib
 
                 if (IsValidEmail(email))
                 {
-
                     string[] _emailAddresses;
 
                     _emailAddresses = email.Split(',');
 
                     for (int indx = 0; indx < _emailAddresses.Length; indx++)
-                    {
-                        ret = _emailService.SendMailWithAttachment(_emailAddresses[indx], "", subject, body, false, attachPDFPath);
+                    {                      
+                        
+                        // Just Uncomment if above code is not working.
+                        // ret = _emailService.SendMailWithAttachment(_emailAddresses[indx], "", subject, body, false, attachPDFPath);
 
-                        if (ret == false)
-                        {
-                            EventLog.WriteEntry("OrderLinc", "Invalid Email Address - " + email + " CustomerID = " + order.CustomerID, EventLogEntryType.Error);
-                        }
+                        MailMessage emailMessage = new MailMessage(MailSender, _emailAddresses[indx], subject, body);
+                        emailMessage.Attachments.Add(new Attachment(attachPDFPath));
 
+                        emailSender.Send(emailMessage);
+
+                        // Just uncomment if above code is not working.
+                        //if (ret == false)
+                        //{
+                        //    EventLog.WriteEntry("OrderLinc", "Invalid Email Address - " + email + " CustomerID = " + order.CustomerID, EventLogEntryType.Error);
+                        //}
                     }
+
+                    ret = true;
 
                 }
                 return ret;
@@ -787,37 +795,38 @@ namespace OrderLinc.NotificationLib
             catch(Exception ex)
             {
                 EventLog.WriteEntry("OrderLinc", ex.Message, EventLogEntryType.Error);
+
                 return false;
             }
         }
 
-        private bool SendMailNotification(string email, string mailCC, string subject, string body, string pdfPath)
-        {
-            try
-            {
-                bool ret = false;
+        //private bool SendMailNotification(string email, string mailCC, string subject, string body, string pdfPath)
+        //{
+        //    try
+        //    {
+        //        bool ret = false;
 
-                if (string.IsNullOrEmpty(email))
-                    return ret;
+        //        if (string.IsNullOrEmpty(email))
+        //            return ret;
 
-                if (IsValidEmail(email))
-                {
-                    ret = _emailService.SendMailWithAttachment(email, mailCC, subject, body, false, pdfPath);
+        //        if (IsValidEmail(email))
+        //        {
+        //            ret = _emailService.SendMailWithAttachment(email, mailCC, subject, body, false, pdfPath);
 
-                    if (ret == false)
-                    {
-                        EventLog.WriteEntry("OrderLinc", "SendMailNotification: Invalid Email Address - " + email, EventLogEntryType.Error);
-                    }
+        //            if (ret == false)
+        //            {
+        //                EventLog.WriteEntry("OrderLinc", "SendMailNotification: Invalid Email Address - " + email, EventLogEntryType.Error);
+        //            }
 
-                }
-                return ret;
-            }
-            catch (Exception ex)
-            {
-                EventLog.WriteEntry("OrderLinc", ex.Message, EventLogEntryType.Error);
-                return false;
-            }
-        }
+        //        }
+        //        return ret;
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        EventLog.WriteEntry("OrderLinc", ex.Message, EventLogEntryType.Error);
+        //        return false;
+        //    }
+        //}
 
 
         private bool IsValidEmail(string emailAddress)

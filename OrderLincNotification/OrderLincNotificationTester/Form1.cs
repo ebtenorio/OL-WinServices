@@ -20,13 +20,13 @@ namespace OrderLincNotificationTester
         private void btnStart_Click(object sender, EventArgs e)
         {
 
-            OrderLinc.NotificationLib.OrderNotification mWS = new OrderLinc.NotificationLib.OrderNotification("192.168.1.189", "OrderLinc", "1", "hsn_builder", "h$n2oo9");
+            OrderLinc.NotificationLib.OrderNotification mWS = new OrderLinc.NotificationLib.OrderNotification("hsntest.4se.com.au", "OrderLinc", "1", "hsn_builder", "h$n2oo9");
             mWS.StartService(100);
         }
 
         private void btnStop_Click(object sender, EventArgs e)
         {
-            OrderLinc.NotificationLib.OrderNotification mWS = new OrderLinc.NotificationLib.OrderNotification("192.168.1.189", "OrderLinc", "1", "hsn_builder", "h$n2oo9");
+            OrderLinc.NotificationLib.OrderNotification mWS = new OrderLinc.NotificationLib.OrderNotification("hsntest.4se.com.au", "OrderLinc", "1", "hsn_builder", "h$n2oo9");
              mWS.StopService();
         }
     }

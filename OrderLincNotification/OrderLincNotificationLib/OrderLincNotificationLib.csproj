@@ -50,11 +50,15 @@
       <HintPath>..\..\Binaries\EmailSVC.dll</HintPath>
     </Reference>
     <Reference Include="OrderLincLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\Binaries\OrderLincLib.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\OrderLinc-Library\OrderLincLib\bin\Debug\OrderLincLib.dll</HintPath>
     </Reference>
     <Reference Include="PDFTechLib, Version=1.9.1.0, Culture=neutral, PublicKeyToken=21b3870450efe9d7, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>D:\backup PTINet\OrderLinc\LIb\LIBRARY\OrderAppLib\bin\Release\PDFTechLib.dll</HintPath>
+    </Reference>
+    <Reference Include="PLPersistenceServices">
+      <HintPath>..\..\..\OrderLinc-Library\OrderLincLib\bin\Debug\PLPersistenceServices.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

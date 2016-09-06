@@ -54,3 +54,15 @@ C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotificatio
 C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLincNotificationService.csproj.GenerateResource.Cache
 C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLinc Windows Service.exe
 C:\AgilitiNet Source\1440-4SE-OrderLincVersion3\Application\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLinc Windows Service.pdb
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.exe.config
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.exe
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLinc Windows Service.pdb
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincNotification.dll
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationService\bin\Debug\PDFTechLib.dll
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationService\bin\Debug\EmailSVC.dll
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationService\bin\Debug\OrderLincNotification.pdb
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLincNotificationService.csprojResolveAssemblyReference.cache
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderAppWindowsService.ProjectInstaller.resources
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLincNotificationService.csproj.GenerateResource.Cache
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLinc Windows Service.exe
+C:\Github Repos\OrderLinc-WinServices\OrderLincNotification\OrderLincNotificationService\obj\x86\Debug\OrderLinc Windows Service.pdb
